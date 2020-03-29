@@ -102,7 +102,7 @@ a set of rules that precisely define a sequence of operations.
   * `B` [Binary Search](src/algorithms/search/binary-search) - search in sorted array
   * `B` [Interpolation Search](src/algorithms/search/interpolation-search) - search in uniformly distributed sorted array
 * **Sorting**
-  * `B` [Bubble Sort](src/algorithms/sorting/bubble-sort)
+  [x] `B` [Bubble Sort](src/algorithms/sorting/bubble-sort)
   * `B` [Selection Sort](src/algorithms/sorting/selection-sort)
   * `B` [Insertion Sort](src/algorithms/sorting/insertion-sort)
   * `B` [Heap Sort](src/algorithms/sorting/heap-sort)
