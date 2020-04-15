@@ -89,7 +89,7 @@ a set of rules that precisely define a sequence of operations.
   * `A` [Maximum Subarray](src/algorithms/sets/maximum-subarray) - "Brute Force" and "Dynamic Programming" (Kadane's) versions
   * `A` [Combination Sum](src/algorithms/sets/combination-sum) - find all combinations that form specific sum
 * **Strings**
-  [x] `B` [Hamming Distance](src/algorithms/string/hamming-distance) - number of positions at which the symbols are different
+  - [x] `B` [Hamming Distance](src/algorithms/string/hamming-distance) - number of positions at which the symbols are different
   * `A` [Levenshtein Distance](src/algorithms/string/levenshtein-distance) - minimum edit distance between two sequences
   * `A` [Knuth–Morris–Pratt Algorithm](src/algorithms/string/knuth-morris-pratt) (KMP Algorithm) - substring search (pattern matching)
   * `A` [Z Algorithm](src/algorithms/string/z-algorithm) - substring search (pattern matching)
@@ -102,12 +102,12 @@ a set of rules that precisely define a sequence of operations.
   * `B` [Binary Search](src/algorithms/search/binary-search) - search in sorted array
   * `B` [Interpolation Search](src/algorithms/search/interpolation-search) - search in uniformly distributed sorted array
 * **Sorting**
-  [x] `B` [Bubble Sort](src/algorithms/sorting/bubble-sort)
-  [x] `B` [Selection Sort](src/algorithms/sorting/selection-sort)
-  [ ] `B` [Insertion Sort](src/algorithms/sorting/insertion-sort)
-  [ ] `B` [Heap Sort](src/algorithms/sorting/heap-sort)
+  - [x] `B` [Bubble Sort](src/algorithms/sorting/bubble-sort)
+  - [x] `B` [Selection Sort](src/algorithms/sorting/selection-sort)
+  - [ ] `B` [Insertion Sort](src/algorithms/sorting/insertion-sort)
+  - [ ] `B` [Heap Sort](src/algorithms/sorting/heap-sort)
   * `B` [Merge Sort](src/algorithms/sorting/merge-sort)
-  [ ] `B` [Quicksort](src/algorithms/sorting/quick-sort) - in-place and non-in-place implementations
+  - [ ] `B` [Quicksort](src/algorithms/sorting/quick-sort) - in-place and non-in-place implementations
   * `B` [Shellsort](src/algorithms/sorting/shell-sort)
   * `B` [Counting Sort](src/algorithms/sorting/counting-sort)
   * `B` [Radix Sort](src/algorithms/sorting/radix-sort)
